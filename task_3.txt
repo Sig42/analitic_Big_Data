@@ -1,0 +1,5 @@
+Johns 25000
+Smith 30000
+Black 21000
+Lewis 19000
+Peterson 31000
